@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sociopedia
 
 ## Description
@@ -36,3 +37,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 This project is licensed under the MIT License.
+=======
+# app
+>>>>>>> 70aa5d83c5b4ca3155e0ec3ad792ae3d66c527af
